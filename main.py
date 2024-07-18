@@ -1,3 +1,5 @@
+#leia o readme.md para entender o que é necessário para rodar esse código
+
 from ultralytics import YOLO
 
 # Cria uma instância do modelo YOLO, carregando o modelo 'yolov8n.pt' (versao leve do yolo, nano)
